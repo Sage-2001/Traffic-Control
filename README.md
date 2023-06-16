@@ -1,7 +1,5 @@
 ## Chicago Street Statistics
 
-http://mpcs53014-loadbalancer-217964685.us-east-2.elb.amazonaws.com:3113/traffic.html
-
 This project is an application of the Lambda Architecture that tracks the traffic safety and congestion of each street in Chicago. It shows
 recent traffic crashes, red light and speed camera violations, and traffic patterns of 1,250 street segments within city limits.
 
